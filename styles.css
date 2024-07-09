@@ -69,7 +69,7 @@ section h2 {
 }
 
 .project-thumbnail ul li {
-    list-style-type: disc; /* Ensure bullet points are displayed */
+   /*list-style-type: disc; /* Ensure bullet points are displayed */
     margin-left: 20px; /* Add margin to align the bullets properly */
     margin-bottom: 5px; /* Adjust spacing between list items */
 }
