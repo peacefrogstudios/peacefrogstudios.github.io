@@ -64,9 +64,9 @@ section h2 {
 }
 
 .project-thumbnail ul {
-    list-style: none;
-    padding: 0;
-    text-align: left;
+    list-style-type: disc; /* Ensure bullet points are displayed */
+    padding-left: 20px; /* Add padding to align the bullets properly */
+    text-align: left; /* Align text to the left */
 }
 
 .project-thumbnail ul li {
